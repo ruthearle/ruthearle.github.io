@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ruth Earle</copyright>
-    <lastBuildDate>Sat, 30 Apr 2016 10:00:26 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 30 Apr 2016 16:54:05 +0100</lastBuildDate>
     <atom:link href="http://blog.ruthearle.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>list</title>
+      <link>http://blog.ruthearle.com/list/</link>
+      <pubDate>Sat, 30 Apr 2016 16:54:05 +0100</pubDate>
+      
+      <guid>http://blog.ruthearle.com/list/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>about</title>
