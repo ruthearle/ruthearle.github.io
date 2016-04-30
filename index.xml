@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What if...</title>
+    <link>http://blog.ruthearle.com/</link>
+    <description>Recent content on What if...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ruth Earle</copyright>
+    <lastBuildDate>Sat, 30 Apr 2016 10:00:26 +0100</lastBuildDate>
+    <atom:link href="http://blog.ruthearle.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://blog.ruthearle.com/about/</link>
+      <pubDate>Sat, 30 Apr 2016 10:00:26 +0100</pubDate>
+      
+      <guid>http://blog.ruthearle.com/about/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it.” —&lt;a href=&#34;http://kundaliniresearchinstitute.org/?page_id=560&#34;&gt;Yogi Bhajan&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This blog is about me trying to be a better programmer.&lt;/p&gt;
+
+&lt;p&gt;But why another blog about programming? Why not just study whats out there already and hope that something sticks? Firstly, I want to test the truthyness of the axiom uttered by &lt;a href=&#34;http://kundaliniresearchinstitute.org/?page_id=560&#34;&gt;Yogi Bhajan&lt;/a&gt; (and many others), secondly to serve as a repository for things I have learned and deemed important enough to write down and remember, and lastly it is my attempt to try and silence the noise of my unhelpful, negative voice that insists on telling me that I am an Imposter.&lt;/p&gt;
+
+&lt;p&gt;I am sure the last one is a red herring, because as I have learned:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-elixir&#34;&gt; growth = new_skill |&amp;gt; discomfort |&amp;gt; uncertainty |&amp;gt; lack_of_confidence |&amp;gt; imposter_syndrome
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
