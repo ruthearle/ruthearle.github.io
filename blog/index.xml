@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on What if...</title>
-    <link>http://ruthearle.com/blog/</link>
+    <link>http://blog.ruthearle.com/blog/</link>
     <description>Recent content in Blogs on What if...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ruth Earle</copyright>
     <lastBuildDate>Sat, 30 Apr 2016 14:04:32 +0100</lastBuildDate>
-    <atom:link href="http://ruthearle.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.ruthearle.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>I Go With Hugo</title>
-      <link>http://ruthearle.com/blog/igo-hugo/</link>
+      <link>http://blog.ruthearle.com/blog/igo-hugo/</link>
       <pubDate>Sat, 30 Apr 2016 14:04:32 +0100</pubDate>
       
-      <guid>http://ruthearle.com/blog/igo-hugo/</guid>
+      <guid>http://blog.ruthearle.com/blog/igo-hugo/</guid>
       <description>
 
 &lt;p&gt;So I finally have my blog up and running. Part of the delay was that I could not find a platform with templates that I liked the other part was sheer laziness. Then I found &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;

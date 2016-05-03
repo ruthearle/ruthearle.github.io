@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>What if...</title>
-    <link>http://ruthearle.com/</link>
+    <link>http://blog.ruthearle.com/</link>
     <description>Recent content on What if...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ruth Earle</copyright>
     <lastBuildDate>Sat, 30 Apr 2016 14:04:32 +0100</lastBuildDate>
-    <atom:link href="http://ruthearle.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.ruthearle.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>I Go With Hugo</title>
-      <link>http://ruthearle.com/blog/igo-hugo/</link>
+      <link>http://blog.ruthearle.com/blog/igo-hugo/</link>
       <pubDate>Sat, 30 Apr 2016 14:04:32 +0100</pubDate>
       
-      <guid>http://ruthearle.com/blog/igo-hugo/</guid>
+      <guid>http://blog.ruthearle.com/blog/igo-hugo/</guid>
       <description>
 
 &lt;p&gt;So I finally have my blog up and running. Part of the delay was that I could not find a platform with templates that I liked the other part was sheer laziness. Then I found &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
@@ -166,10 +166,10 @@ Github pages will host static files from a repository that meets two conditions:
     
     <item>
       <title>about</title>
-      <link>http://ruthearle.com/about/</link>
+      <link>http://blog.ruthearle.com/about/</link>
       <pubDate>Sat, 30 Apr 2016 10:00:26 +0100</pubDate>
       
-      <guid>http://ruthearle.com/about/</guid>
+      <guid>http://blog.ruthearle.com/about/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;“If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it.” —&lt;a href=&#34;http://kundaliniresearchinstitute.org/?page_id=560&#34;&gt;Yogi Bhajan&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -179,7 +179,7 @@ Github pages will host static files from a repository that meets two conditions:
 &lt;p&gt;But why another blog about programming? Why not just study whats out there already and hope that something sticks? Well, firstly, I want to test the truthyness of the axiom uttered by &lt;a href=&#34;http://kundaliniresearchinstitute.org/?page_id=560&#34;&gt;Yogi Bhajan&lt;/a&gt; (and many others), secondly to serve as a repository for things I have learned and deemed important enough to write down and remember, and lastly it is my attempt to try and silence the noise of my unhelpful, negative voice that insists on telling me that I am an Imposter. 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://ruthearle.com/img/profile/cartoonMe.jpg&#34; /&gt;
+        &lt;img src=&#34;http://blog.ruthearle.com/img/profile/cartoonMe.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
