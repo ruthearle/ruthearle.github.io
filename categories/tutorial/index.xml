@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What if...</title>
-    <link>http://ruthearle.com/</link>
-    <description>Recent content on What if...</description>
+    <title>Tutorial on What if...</title>
+    <link>http://ruthearle.com/categories/tutorial/</link>
+    <description>Recent content in Tutorial on What if...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ruth Earle</copyright>
     <lastBuildDate>Sat, 30 Apr 2016 14:04:32 +0100</lastBuildDate>
-    <atom:link href="http://ruthearle.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ruthearle.com/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>I Go With Hugo</title>
@@ -161,39 +161,6 @@ Github pages will host static files from a repository that meets two conditions:
 &lt;p&gt;Once all changes are pushed your site should be available to view at &lt;code&gt;&amp;lt;username&amp;gt;.git.io&lt;/code&gt; or your custom domain.&lt;/p&gt;
 
 &lt;p&gt;Enjoy!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://ruthearle.com/about/</link>
-      <pubDate>Sat, 30 Apr 2016 10:00:26 +0100</pubDate>
-      
-      <guid>http://ruthearle.com/about/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;“If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it.” —&lt;a href=&#34;http://kundaliniresearchinstitute.org/?page_id=560&#34;&gt;Yogi Bhajan&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The sole purpose of this blog is for me and anyone who cares to read it to become better programmers.&lt;/p&gt;
-
-&lt;p&gt;But why another blog about programming? Why not just study whats out there already and hope that something sticks? Well, firstly, I want to test the truthyness of the axiom uttered by &lt;a href=&#34;http://kundaliniresearchinstitute.org/?page_id=560&#34;&gt;Yogi Bhajan&lt;/a&gt; (and many others), secondly to serve as a repository for things I have learned and deemed important enough to write down and remember, and lastly it is my attempt to try and silence the noise of my unhelpful, negative voice that insists on telling me that I am an Imposter. 
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://ruthearle.com/img/profile/cartoonMe.jpg&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Me&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;I am sure the last one is a red herring, because as I have learned:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-elixir&#34;&gt; growth = new_skill |&amp;gt; discomfort |&amp;gt; uncertainty |&amp;gt; lack_of_confidence |&amp;gt; imposter_syndrome
-&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     

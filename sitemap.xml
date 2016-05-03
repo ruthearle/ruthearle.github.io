@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.ruthearle.com/</loc>
-    <lastmod>2016-04-30T16:54:05+01:00</lastmod>
+    <loc>http://ruthearle.com/</loc>
+    <lastmod>2016-04-30T14:04:32+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ruthearle.com/list/</loc>
-    <lastmod>2016-04-30T16:54:05+01:00</lastmod>
+    <loc>http://ruthearle.com/blog/igo-hugo/</loc>
+    <lastmod>2016-04-30T14:04:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.ruthearle.com/about/</loc>
+    <loc>http://ruthearle.com/about/</loc>
     <lastmod>2016-04-30T10:00:26+01:00</lastmod>
   </url>
   
